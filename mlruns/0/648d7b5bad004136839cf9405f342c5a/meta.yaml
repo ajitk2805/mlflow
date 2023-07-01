@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/ML/mlflow/mlruns/0/648d7b5bad004136839cf9405f342c5a/artifacts
+end_time: 1688236957089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 648d7b5bad004136839cf9405f342c5a
+run_name: adventurous-shad-660
+run_uuid: 648d7b5bad004136839cf9405f342c5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688236951219
+status: 3
+tags: []
+user_id: Ajit

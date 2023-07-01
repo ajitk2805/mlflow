@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/ML/mlflow/mlruns/0/55aea1961e5e42b599334d3fa8781870/artifacts
+end_time: 1688236968147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55aea1961e5e42b599334d3fa8781870
+run_name: casual-vole-557
+run_uuid: 55aea1961e5e42b599334d3fa8781870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688236962852
+status: 3
+tags: []
+user_id: Ajit

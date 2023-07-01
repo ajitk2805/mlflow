@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/ML/mlflow/mlruns/0/1d53af585b0a4f68a458395e50860c29/artifacts
+end_time: 1688237084085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d53af585b0a4f68a458395e50860c29
+run_name: carefree-duck-281
+run_uuid: 1d53af585b0a4f68a458395e50860c29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688237078700
+status: 3
+tags: []
+user_id: Ajit

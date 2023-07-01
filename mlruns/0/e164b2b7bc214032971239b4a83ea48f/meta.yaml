@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/ML/mlflow/mlruns/0/e164b2b7bc214032971239b4a83ea48f/artifacts
+end_time: 1688237072994
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e164b2b7bc214032971239b4a83ea48f
+run_name: caring-loon-517
+run_uuid: e164b2b7bc214032971239b4a83ea48f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688237067439
+status: 3
+tags: []
+user_id: Ajit

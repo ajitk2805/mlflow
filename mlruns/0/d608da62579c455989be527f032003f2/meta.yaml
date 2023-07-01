@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/ML/mlflow/mlruns/0/d608da62579c455989be527f032003f2/artifacts
+end_time: 1688237062133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d608da62579c455989be527f032003f2
+run_name: likeable-kite-314
+run_uuid: d608da62579c455989be527f032003f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688237056383
+status: 3
+tags: []
+user_id: Ajit

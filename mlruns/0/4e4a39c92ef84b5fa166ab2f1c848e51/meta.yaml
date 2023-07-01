@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/ML/mlflow/mlruns/0/4e4a39c92ef84b5fa166ab2f1c848e51/artifacts
+end_time: 1688236933699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e4a39c92ef84b5fa166ab2f1c848e51
+run_name: abundant-newt-519
+run_uuid: 4e4a39c92ef84b5fa166ab2f1c848e51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688236927863
+status: 3
+tags: []
+user_id: Ajit

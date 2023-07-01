@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/ML/mlflow/mlruns/0/4296f21099b04fd9bd60ae8937364071/artifacts
+end_time: 1688236991704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4296f21099b04fd9bd60ae8937364071
+run_name: redolent-hawk-492
+run_uuid: 4296f21099b04fd9bd60ae8937364071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688236985590
+status: 3
+tags: []
+user_id: Ajit

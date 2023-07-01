@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/ML/mlflow/mlruns/0/9f35c77d15c1478b92ecc1bea8f432bb/artifacts
+end_time: 1688231586159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f35c77d15c1478b92ecc1bea8f432bb
+run_name: delightful-cat-245
+run_uuid: 9f35c77d15c1478b92ecc1bea8f432bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688231584719
+status: 3
+tags: []
+user_id: Ajit

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/ML/mlflow/mlruns/0/bbd424ee579f44909fc5b574144fa587/artifacts
+end_time: 1688231335064
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bbd424ee579f44909fc5b574144fa587
+run_name: crawling-mouse-152
+run_uuid: bbd424ee579f44909fc5b574144fa587
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688231334841
+status: 3
+tags: []
+user_id: Ajit

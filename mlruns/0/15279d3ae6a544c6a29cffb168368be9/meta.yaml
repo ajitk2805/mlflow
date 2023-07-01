@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/ML/mlflow/mlruns/0/15279d3ae6a544c6a29cffb168368be9/artifacts
+end_time: 1688237102943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15279d3ae6a544c6a29cffb168368be9
+run_name: nervous-panda-109
+run_uuid: 15279d3ae6a544c6a29cffb168368be9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688237101032
+status: 4
+tags: []
+user_id: Ajit

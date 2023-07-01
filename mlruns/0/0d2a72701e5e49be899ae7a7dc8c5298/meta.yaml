@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/ML/mlflow/mlruns/0/0d2a72701e5e49be899ae7a7dc8c5298/artifacts
+end_time: 1688236945274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d2a72701e5e49be899ae7a7dc8c5298
+run_name: likeable-penguin-645
+run_uuid: 0d2a72701e5e49be899ae7a7dc8c5298
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688236939229
+status: 3
+tags: []
+user_id: Ajit

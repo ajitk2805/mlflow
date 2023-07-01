@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/ML/mlflow/mlruns/0/feb1c931e6e24d3cab436f0c03b2b614/artifacts
+end_time: 1688237026484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: feb1c931e6e24d3cab436f0c03b2b614
+run_name: rare-grouse-209
+run_uuid: feb1c931e6e24d3cab436f0c03b2b614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688237020958
+status: 3
+tags: []
+user_id: Ajit

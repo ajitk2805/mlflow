@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/ML/mlflow/mlruns/0/39b6deb6890c4a31affb3d2e2aa16306/artifacts
+end_time: 1688236921938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39b6deb6890c4a31affb3d2e2aa16306
+run_name: dapper-loon-105
+run_uuid: 39b6deb6890c4a31affb3d2e2aa16306
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688236915731
+status: 3
+tags: []
+user_id: Ajit

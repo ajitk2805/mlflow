@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/ML/mlflow/mlruns/0/b1cc1b55efa4473998a89e761426fab8/artifacts
+end_time: 1688236979998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1cc1b55efa4473998a89e761426fab8
+run_name: awesome-conch-454
+run_uuid: b1cc1b55efa4473998a89e761426fab8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688236974050
+status: 3
+tags: []
+user_id: Ajit

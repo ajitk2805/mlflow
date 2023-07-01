@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/ML/mlflow/mlruns/0/1209cc42a1aa464fa4bd4a426f382788/artifacts
+end_time: 1688234984559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1209cc42a1aa464fa4bd4a426f382788
+run_name: awesome-crab-775
+run_uuid: 1209cc42a1aa464fa4bd4a426f382788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688234975369
+status: 3
+tags: []
+user_id: Ajit

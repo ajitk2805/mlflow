@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/ML/mlflow/mlruns/0/ef80c85cdf174a999588eb4f960258ba/artifacts
+end_time: 1688237095463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef80c85cdf174a999588eb4f960258ba
+run_name: blushing-duck-32
+run_uuid: ef80c85cdf174a999588eb4f960258ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688237089486
+status: 3
+tags: []
+user_id: Ajit
