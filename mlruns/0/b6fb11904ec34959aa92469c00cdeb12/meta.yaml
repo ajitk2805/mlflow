@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/ML/mlflow/mlruns/0/b6fb11904ec34959aa92469c00cdeb12/artifacts
+end_time: 1688208851970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6fb11904ec34959aa92469c00cdeb12
+run_name: unleashed-snail-713
+run_uuid: b6fb11904ec34959aa92469c00cdeb12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688208851875
+status: 3
+tags: []
+user_id: Ajit

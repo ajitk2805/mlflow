@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/FSDS/ML/mlflow/mlruns/0/4564671e442f4f04aee659a89a64599d/artifacts
+end_time: 1688208987040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4564671e442f4f04aee659a89a64599d
+run_name: spiffy-snake-608
+run_uuid: 4564671e442f4f04aee659a89a64599d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688208986978
+status: 3
+tags: []
+user_id: Ajit
